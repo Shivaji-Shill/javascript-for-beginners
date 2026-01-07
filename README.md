@@ -25,4 +25,4 @@ It is designed for learning, practicing, and sharing JavaScript concepts in a si
 - Self learners
 
 ## Author
-Agrojit
+Agrojit Shill
